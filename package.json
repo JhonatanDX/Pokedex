@@ -1,0 +1,24 @@
+{
+  "name": "ptojeto-gulp",
+  "version": "1.0.0",
+  "description": "Projeto criado estudando com o curso codeboost",
+  "main": "index.js",
+  "author": "Jhonatan Cardoso",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.70.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "gulp-autoprefixer": "8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
